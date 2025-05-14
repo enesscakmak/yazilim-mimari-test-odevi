@@ -2,7 +2,7 @@
 
 Bu proje, https://the-internet.herokuapp.com/login sayfasında hatalı kullanıcı girişi yapıldığında hata mesajının görünürlüğünü test eder.
 
-## 📍 Test Senaryosu
+## Test Senaryosu
 
 -   Tarayıcı açılır
 -   Login sayfasına gidilir: [`https://the-internet.herokuapp.com/login`](https://the-internet.herokuapp.com/login)
